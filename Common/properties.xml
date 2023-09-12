@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Modified Values</comment>
+<!-- Properties For Test  -->
+<entry key="product.MedRev">MedRev_PORTAL</entry>
+<entry key="MedRev.mail.recipient">amarendra.srivastava@programmers.io,ashish.vyas@programmers.io,deepali.sanap@programmers.io</entry>
+
+<!-- Properties For Database -->
+<entry key="mysql.server">192.168.29.21</entry>
+<entry key="mysql.database">db_auto_medrev</entry>
+<entry key="mysql.database.testlink">testlink</entry>
+<entry key="mysql.port">3306</entry>
+<entry key="mysql.user">root</entry>
+<entry key="mysql.password">root</entry>
+
+<!-- Mailing Configuration -->
+<entry key="mailSmtp.host">smtp.gmail.com</entry>
+<entry key="mailSmtp.port">587</entry>
+<!-- Screenshot Folder Location-->
+<entry key="screenshots.rootLocation">..//ScreenShotsFailedTestCase/</entry>
+<!-- Properties For MedRev -->
+<entry key="MedRev.test.server.url">https://demo.medrevup.com/auth/login</entry>
+<entry key="MedRev.test.email">darien58@example.org</entry>
+<entry key="MedRev.test.pass">Med@4000</entry>
+<entry key="MedRev.test.gmail.port">993</entry>
+<entry key="MedRev.test.gmail.host">imap.gmail.com</entry>
+<entry key="MedRev.test.gmail.sent.host">smtp.gmail.com</entry>
+<entry key="MedRev.test.gmail.sent.port">587</entry>
+<entry key="MedRev.test.gmail.username">qa.medrev@gmail.com</entry>
+<entry key="MedRev.test.gmail.password">ozggvkzouhfgsack</entry>
+</properties>
